@@ -30,8 +30,8 @@
 
 <p align="center"><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitskr26hub&theme=2077' width="100%">
 
-<p style="display:grid,grid-templete-coloumn:repeat(2,1fr)"><img align="right" src="https://github-readme-stats.vercel.app/api?username=gitskr26hub&show_icons=true&locale=en" alt="gitskr26hub" />
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=gitskr26hub&" alt="gitskr26hub" /></p>
+<p style="display:grid,grid-templete-coloumn:repeat(2,1fr)"><img  width="45%" src="https://github-readme-stats.vercel.app/api?username=gitskr26hub&show_icons=true&locale=en" alt="gitskr26hub" />
+<img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gitskr26hub&" alt="gitskr26hub" /></p>
   
   <h1 align="left">My Recent Projects:</h1>
   <p align="left">
