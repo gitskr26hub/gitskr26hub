@@ -19,9 +19,10 @@
 - ⚡ Fun fact **I love music**
 
 <h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/sugam-kumar-6b07041bb" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="https://www.linkedin.com/in/sugam-kumar-6b07041bb" height="30" width="100" /></a>
-</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sugam-kumar-6b07041bb) 
+
+
 
 <h1 align="left">Languages and Tools:</h1>
 <div align="left">  
