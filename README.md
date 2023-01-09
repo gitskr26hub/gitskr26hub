@@ -39,9 +39,15 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="80" /></a>  
 </div>
 
+  
+  # 📊 GitHub Stats:
 <p align="center"><img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gitskr26hub&theme=2077' width="100%">
 
 <p style="display:grid,grid-templete-coloumn:repeat(2,1fr)"><img  width="45%" src="https://github-readme-stats.vercel.app/api?username=gitskr26hub&show_icons=true&locale=en" alt="gitskr26hub" />
 <img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=gitskr26hub&" alt="gitskr26hub" /></p>
+  
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gitskr26hub&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
   
  
