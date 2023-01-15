@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitskr26hub&label=Profile%20views&color=0e75b6&style=flat" alt="gitskr26hub" /> </p>
 <h1 align="left" >About Me</h1>
-- 🌱I am <b>Sugam Kumar from Uttar Pradesh, currently studying Full stack web developer course from MASAI SCHOOL. I am very keen to learn new technologies and use them to either create something useful or improve the projects.</b>
+- 🌱Aspiring Full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a good team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a web-developer with a reputed firm driven by technology.
 
 -  I’m currently learning React & backend.
 
