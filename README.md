@@ -6,7 +6,7 @@
 <h1 align="left" >About Me</h1>
 - 🌱Aspiring Full-stack web developer specialized in MERN stack having fascination towards computer and technology. Keen to create new and innovative websites by showcasing my skills. Apart from that a good team player, ability to work with different kinds of people with different thinkings. In my spare time, I like to gain skills by which I can create something productive. I am looking to start my career as a web-developer with a reputed firm driven by technology.
 
--  I’m currently learning React & backend.
+-  I’m currently learning NextJs & backend.
 
 -  I’m looking to collaborate with MERN Web Devlopment projects.
 
