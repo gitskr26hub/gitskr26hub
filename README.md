@@ -10,17 +10,17 @@
 
 -  I’m looking to collaborate with MERN Web Devlopment projects.
 
-- 👨‍💻 Check out my  <b><a href="https://gitskr26hub.github.io" target="_blank"><i>PORTFOLIO</i></a></b>
+- 👨‍💻 Check out my  <b><a href="https://gitskr26hu.github.io" target="_blank"><i>PORTFOLIO</i></a></b>
 
 - 📫 Connect to me <b><a href="mailto:kumarsugam26@gmail.com" target="_blank"><i>My_Gmail<i></a></b>
 
-- 📄 Know about my experiences <b><a target="_blank" href="https://drive.google.com/file/d/1tfdvtXfI_ECHZdVdF2ZR0K3OvmmaEYl_/view?usp=sharing"><i>RESUME</i></a></b> 
+- 📄 Know about my experiences <b><a target="_blank" href="https://drive.google.com/file/d/1tfdvtXfI_ECHZdVdF2ZR0K3OvmmaEYl_/view?up=sharing"><i>RESUME</i></a></b> 
 
 - ⚡ Fun fact **I love music**
 
 <h1 align="left">Connect with me:</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugam-kumar-6b07041bb) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sugm-kumar-6b07041bb) 
 
 
 
