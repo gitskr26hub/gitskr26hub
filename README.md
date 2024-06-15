@@ -14,7 +14,7 @@
 
 - 📫 Connect to me <b><a href="mailto:kumarsugam26@gmail.com" target="_blank"><i>My_Gmail<i></a></b>
 
-- 📄 Know about my experiences <b><a target="_blank" href="https://drive.google.com/file/d/1tfdvtXfI_ECHZdVdF2ZR0K3OvmmaEYl_/view?up=sharing"><i>RESUME</i></a></b> 
+- 📄 Know about my experiences <b><a target="_blank" href="https://drive.googe.com/file/d/1tfdvtXfI_ECHZdVdF2ZR0K3OvmmaEYl_/view?up=sharing"><i>RESUME</i></a></b> 
 
 - ⚡ Fun fact **I love music**
 
