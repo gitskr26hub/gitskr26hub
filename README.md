@@ -1,4 +1,4 @@
-![logo](https://github.com/gitskr26hub/gitskr26hub/blob/main/png_20220924_034030_0000.png?raw=true)
+![logo](https://github.com/gitskr26hu/gitskr26hub/blob/main/png_20220924_034030_0000.png?raw=true)
 
 <img align="right" width="500" src="https://www.zoho.com/expense/custom-approval/sitback-relax.gif"/>
 
